@@ -1,0 +1,7 @@
+DiceRoller.v11.suo
+DiceRoller/obj
+DiceRollerUI/obj
+DiceRoller/bin
+DiceRollerUI/bin
+/*.suo
+*.user

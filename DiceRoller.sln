@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRollerUI", "DiceRollerUI\DiceRollerUI.csproj", "{45E553C4-AF97-4028-8038-9BA1E2ED39EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRoller", "DiceRoller\DiceRoller.csproj", "{40FFC5FE-062F-40D7-BD54-6284B8149C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40FFC5FE-062F-40D7-BD54-6284B8149C44}.Debug|x86.ActiveCfg = Debug|x86
+		{40FFC5FE-062F-40D7-BD54-6284B8149C44}.Debug|x86.Build.0 = Debug|x86
+		{40FFC5FE-062F-40D7-BD54-6284B8149C44}.Release|x86.ActiveCfg = Release|x86
+		{40FFC5FE-062F-40D7-BD54-6284B8149C44}.Release|x86.Build.0 = Release|x86
+		{45E553C4-AF97-4028-8038-9BA1E2ED39EC}.Debug|x86.ActiveCfg = Debug|x86
+		{45E553C4-AF97-4028-8038-9BA1E2ED39EC}.Debug|x86.Build.0 = Debug|x86
+		{45E553C4-AF97-4028-8038-9BA1E2ED39EC}.Release|x86.ActiveCfg = Release|x86
+		{45E553C4-AF97-4028-8038-9BA1E2ED39EC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
